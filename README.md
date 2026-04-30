@@ -177,7 +177,7 @@ Menambahkan:
 
 ![Code](https://github.com/ramzi121006/uts_citra/blob/21a456d4b65c2c71ddce8f0d54307093e1bb86b0/ss_uts_citra/sscodingan1.png)
 
-![Code]()
+![Code](https://github.com/ramzi121006/uts_citra/blob/2c88833c20b72e1815847b54c65ab8b58afdd067/ss_uts_citra/sscodingan2.png)
 
 ![Code]()
 
