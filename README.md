@@ -183,17 +183,11 @@ Menambahkan:
 
 ![Code](https://github.com/ramzi121006/uts_citra/blob/d5a14be1ad482d831c102c15091c93fd8cb678b9/ss_uts_citra/sscodingan4.png)
 
-![Code]()
+![Code](https://github.com/ramzi121006/uts_citra/blob/165964d28fd57043a79ff11ec83ee3c56b692a74/ss_uts_citra/sscodingan5.png)
 
 ---
 
 ### 📌 Struktur Folder
-
-📍 Letakkan di:
-
-```
-hasil/hasil3.png
-```
 
 ![Struktur](hasil/hasil3.png)
 
