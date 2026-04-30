@@ -144,22 +144,30 @@ Penjelasan:
 
 Menambahkan konversi grayscale
 
+![foto](https://github.com/ramzi121006/uts_citra/blob/900e7b2b175a78e1ee2723dee654066ed07be48f/ss_uts_citra/ss2.png)
+
 ### 🔹 Tahap 3
 
 Menambahkan thresholding (biner)
+
+![foto]()
 
 ### 🔹 Tahap 4
 
 Menambahkan:
 
 * Adaptive Threshold
-* Otsu Threshold
+* Otsu 
+
+![foto]()
 
 ### 🔹 Tahap 5 (Final)
 
 Menambahkan:
 
 * Edge Detection (Canny)
+
+![foto]()
 
 ---
 
