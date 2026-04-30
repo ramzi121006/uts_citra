@@ -167,7 +167,7 @@ Menambahkan:
 
 * Edge Detection (Canny)
 
-![foto]()
+![foto](https://github.com/ramzi121006/uts_citra/blob/30ba9f886091637038fac4f06537de725859091f/ss_uts_citra/ss5.png)
 
 ---
 
