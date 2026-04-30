@@ -175,7 +175,15 @@ Menambahkan:
 
 ### 📌 Source Code
 
-![Code](hasil/hasil2.png)
+![Code](https://github.com/ramzi121006/uts_citra/blob/21a456d4b65c2c71ddce8f0d54307093e1bb86b0/ss_uts_citra/sscodingan1.png)
+
+![Code]()
+
+![Code]()
+
+![Code]()
+
+![Code]()
 
 ---
 
