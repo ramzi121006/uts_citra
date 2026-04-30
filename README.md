@@ -138,7 +138,7 @@ Penjelasan:
 
 ### 🔹 Tahap 1
 
-Menampilkan gambar asli
+![Menampilkan gambar asli](https://github.com/ramzi121006/uts_citra/blob/83c92140fd6f9ff9acdc1b636d79ea443b2b14bf/ss_uts_citra/ss1.png)
 
 ### 🔹 Tahap 2
 
