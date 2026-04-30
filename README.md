@@ -171,29 +171,9 @@ Menambahkan:
 
 ---
 
-## 🖼️ Hasil Output
-
-### 📌 Hasil Lengkap
-
-📍 Letakkan di:
-
-```
-hasil/hasil1.png
-```
-
-![Hasil](hasil/hasil1.png)
-
----
-
 ## 📸 Dokumentasi Tambahan
 
 ### 📌 Source Code
-
-📍 Letakkan di:
-
-```
-hasil/hasil2.png
-```
 
 ![Code](hasil/hasil2.png)
 
