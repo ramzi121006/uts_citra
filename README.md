@@ -1,3 +1,13 @@
+**Nama                     : Muhamad Valentino Ramzi**
+
+**Kelas                    : I241E**
+
+**Matkul                   : Pengolahan Citra**
+
+**Dosen Pengampu           : Dr. Muhamad Fatchan, S.Kom., M.Kom**
+
+---
+
 # 📌 Praktikum Pengolahan Citra - Pertemuan 8
 
 ## 👩‍💻 Deskripsi
@@ -189,7 +199,7 @@ Menambahkan:
 
 ### 📌 Struktur Folder
 
-![Struktur](hasil/hasil3.png)
+![Struktur](https://github.com/ramzi121006/uts_citra/blob/896daf9490c47be8c90d423f017b6cb7a1e8bf34/strukturfolder.png)
 
 ---
 
@@ -223,8 +233,3 @@ python main.py
 ```
 
 ---
-
-## 👤 Author
-
-Nama: (Isi Nama Kamu)
-NIM: (Isi NIM Kamu)
